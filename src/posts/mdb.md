@@ -19,7 +19,7 @@ created_at: 2021-08-22 09:00
 updated_at: 2021-08-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content:https://images.unsplash.com/photo-1643123645046-05f9800654b1 
+    content: https://images.unsplash.com/photo-1643123645046-05f9800654b1 
   - name: twitter:image
     content: /images/posts/my-first-post.png 
 ---
