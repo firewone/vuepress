@@ -2,7 +2,7 @@
 view: post
 layout: post
 lang: en
-author: Venom
+author: venom
 title: Tutorial Hosting gratis menggunakan MDB-CLI
 cover: false
 coverAlt:
