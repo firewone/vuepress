@@ -6,7 +6,7 @@ author: Venom
 title: Hosting Gratis MdbGo CLI
 description: 
 excerpt: 
-cover: false                          # Leave false if the post does not have cover image, if there is set to true
+cover: true                          # Leave false if the post does not have cover image, if there is set to true
 coverAlt: 
 demo: 
 categories:
@@ -19,7 +19,7 @@ created_at: 2021-08-22 09:00
 updated_at: 2021-08-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content:https://images.unsplash.com/photo-1643123645046-05f9800654b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0MzI4MzYyNA&ixlib=rb-1.2.1&q=80&w=1080  
+    content:https://images.unsplash.com/photo-1643123645046-05f9800654b1 
   - name: twitter:image
     content: /images/posts/my-first-post.png 
 ---
