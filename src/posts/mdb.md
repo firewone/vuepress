@@ -3,7 +3,7 @@ view: post
 layout: post                          # Only in unique we use the "layout: post"
 lang: en                              # Lang is required
 author: venom
-title: My First post
+title: Hosting Gratis MdbGo CLI
 description: 
 excerpt: 
 cover: false                          # Leave false if the post does not have cover image, if there is set to true
