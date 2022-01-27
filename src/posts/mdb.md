@@ -4,7 +4,7 @@ layout: post
 lang: en
 author: Venom
 title: Tutorial Hosting gratis menggunakan MDB-CLI
-cover: true
+cover: false
 coverAlt:
 demo: 
 audio: 
@@ -74,6 +74,7 @@ Berikut selengkapnya:
 	# Menggunakan NPM
 	~$ npm install mdb-cli -g
 ```
+
 # Daftar akun MdbGo
 ```bash
 	~$ mdb register
