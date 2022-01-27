@@ -25,7 +25,7 @@ meta:                                 # If you have cover image
 ---
 Salam pecinta gratisan, bagi kalian yang ingin mencari hosting gratis, [MdbGo](https://mdbgo.com) bisa menjadi salah satu alternatif untuk kalian yang ingin meng-Host web pribadi ataupun project kalian. 
 
-# Apa itu MdbGo?
+## Apa itu MdbGo?
 MdbGo adalah adalah Deployment Tools, berbasis Open-Source, dan berikut apasaja yang kalian dapatkan ketika menggunakan MdbGo:
 * Hosting Gratis
 * Subdomain 
@@ -55,17 +55,17 @@ MdbGo adalah adalah Deployment Tools, berbasis Open-Source, dan berikut apasaja 
   * MongoDB
   * MySQL
 
-# Persiapan Instalasi
+## Persiapan Instalasi
 Ada 2 cara menggunakan **mdbGo**, bisa langsung ke 
 website ataupun dengan cli, Namun saya 
 rekomendasikan menggunakan **CLI**, karna meskipun 
 bisa lewat websitenya, tetap saja kita membutuhkan cli untuk edit file, ataupun publish website yang akan kita buat nantinya. 
 Berikut selengkapnya:
-### Install NodeJS&Yarn
+## Install NodeJS&Yarn
 ```bash
 ~$ apt install nodejs yarn -y
 ```
-### Install mdbgo/cli
+## Install mdbgo/cli
 ```bash
 	# Menggunakan Yarn
 	~$ yarn global add mdb-cli
@@ -74,14 +74,14 @@ Berikut selengkapnya:
 	~$ npm install mdb-cli -g
 ```
 
-# Daftar akun MdbGo
+## Daftar akun MdbGo
 ```bash
 	~$ mdb register
 ```
 Kemudian kita disuruh mengisi **nama, username, email, dan password** Silahkan isi sesuai keinginan dan email masing2. jika sukses mendaftar akun, akan tampil sebagai berikut. 
 ![Register](/images/register.jpg)
 
-# Login akun MdbGo
+## Login akun MdbGo
 Login mdbgo dengan perintah:
 ```bash
 ~$ mdb login
@@ -89,12 +89,12 @@ Login mdbgo dengan perintah:
 Masukkan **username & password** yang kalian buat barusan, jika sukses akan tampil seperti ini.
 ![Login](/images/login.jpg)
 
-# Buat Proyek
+## Buat Proyek
 ```bash
 ~$ mdb init
 ```
 Karna disini hanya tutorial basic, kita pilih saja **MDB5 Free Standart**
-# Publish Proyek
+## Publish Proyek
 ```bash
 ~$ cd mdb5-free-standard
 # edit file kalian disini
@@ -112,7 +112,7 @@ Info Your URL has been generated based on your username and project name. You ca
 ```
 Menandakan kita sukses mempublish Aplikasi web static berisi konten standard mdb5-free. Untuk memastikan bisa kunjungi url masing masing nantinya. 
 
-# Akhir kata 
+## Akhir kata 
 Cukup disini dulu tutorial kali ini, untuk tutorial custom Domain nanti akan saya buat tutorialnya di postingan mendatang.
 
 Mohon kritik dan saran bisa komen dibawah atau via [Facebook](https://facebook.com/serlink.my.id)
