@@ -8,6 +8,7 @@ description:
 excerpt: 
 cover: true                          # Leave false if the post does not have cover image, if there is set to true
 coverAlt: 
+coverExt: https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png
 demo: 
 categories:
   - vuejs
