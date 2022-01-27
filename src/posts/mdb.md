@@ -7,8 +7,7 @@ title: Hosting Gratis MdbGo CLI
 description: 
 excerpt: 
 cover: true                          # Leave false if the post does not have cover image, if there is set to true
-coverAlt: 
-coverExt: /img/mdb.jpg
+coverAlt:
 demo: 
 categories:
   - vuejs
@@ -20,7 +19,7 @@ created_at: 2021-08-22 09:00
 updated_at: 2021-08-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content: https://images.unsplash.com/photo-1643123645046-05f9800654b1 
+    content: img/mdb.jpg
   - name: twitter:image
     content: /images/posts/my-first-post.png 
 ---
