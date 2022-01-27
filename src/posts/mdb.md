@@ -19,7 +19,7 @@ created_at: 2021-08-22 09:00
 updated_at: 2021-08-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content: /images/posts/2018/8/mdb.jpg
+    content: /images/posts/2018/8/mdb.png
   - name: twitter:image
     content: /images/posts/my-first-post.png 
 ---
