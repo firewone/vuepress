@@ -1,29 +1,28 @@
 ---
 view: post
-layout: post
-lang: en
+layout: post                          # Only in unique we use the "layout: post"
+lang: en                              # Lang is required
 author: ktquez
-title: Tutorial Hosting gratis menggunakan MDB-CLI
-cover: false
-coverAlt:
+title: My First post
+description: 
+excerpt: 
+cover: false                          # Leave false if the post does not have cover image, if there is set to true
+coverAlt: 
 demo: 
-audio: 
 categories:
-  - Tutorial
-  - Hosting
+  - vuejs
 tags: 
-  - Termux
-  - CLI
-created_at: 2018-08-22 10:00
-updated_at: 2018-08-22 10:00
-
-meta:
+  - vuejs
+  - vuepress
+  - static site
+created_at: 2021-08-22 09:00
+updated_at: 2021-08-22 09:00
+meta:                                 # If you have cover image
   - property: og:image
-    content: /share/when-to-use-ssr-share-post.png
+    content: /images/posts/my-first-post.png  
   - name: twitter:image
-    content: /share/when-to-use-ssr-share-post.png
+    content: /images/posts/my-first-post.png 
 ---
-
 Salam pecinta gratisan, bagi kalian yang ingin mencari hosting gratis, [MdbGo](https://mdbgo.com) bisa menjadi salah satu alternatif untuk kalian yang ingin meng-Host web pribadi ataupun project kalian. 
 
 # Apa itu MdbGo?
