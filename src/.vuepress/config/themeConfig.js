@@ -16,11 +16,11 @@ module.exports = {
   disqus: 'ktquez',
   url: `https://MY_DOMAIN.COM`,
   cdn: '',
-  blackWhite: true,
+  blackWhite: false,
   topNavigation: true,
   searchMaxSuggestions: 7,
   responsive: {
-    active: true,
+    active: false,
     ext: 'png',
     breakpoints: []
   },
