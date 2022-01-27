@@ -6,8 +6,6 @@ const es = require('./locales/es/config')
 module.exports = {
   locales: {
     '/': en,
-    '/pt/': pt,
-    '/es/': es
   },
   serviceWorker: {
     updatePopup: { 
@@ -19,10 +17,10 @@ module.exports = {
   url: `https://MY_DOMAIN.COM`,
   cdn: '',
   blackWhite: true,
-  topNavigation: false,
+  topNavigation: true,
   searchMaxSuggestions: 7,
   responsive: {
-    active: false,
+    active: true,
     ext: 'png',
     breakpoints: []
   },
