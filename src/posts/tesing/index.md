@@ -19,9 +19,9 @@ created_at: 2021-08-22 09:00
 updated_at: 2021-08-22 09:00
 meta:                                 # If you have cover image
   - property: og:image
-    content: ../images/posts/mdb.png
+    content: /images/posts/mdb.png
   - name: twitter:image
-    content: ../images/posts/my-first-post.png 
+    content: /images/posts/my-first-post.png 
 ---
 Salam pecinta gratisan, bagi kalian yang ingin mencari hosting gratis, [MdbGo](https://mdbgo.com) bisa menjadi salah satu alternatif untuk kalian yang ingin meng-Host web pribadi ataupun project kalian. 
 
