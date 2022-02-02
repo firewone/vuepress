@@ -2,6 +2,7 @@
 view: post
 layout: post                          # Only in unique we use the "layout: post"
 lang: en                              # Lang is required
+path: mdbgo
 author: Venom
 title: Hosting Gratis MdbGo CLI
 description: 
